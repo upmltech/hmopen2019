@@ -3,7 +3,8 @@
 6 декабря 2019 года, Ханты-Мансийск
 
 [Условия задач](statements.pdf)  
-[Текстовый разбор](analysis.pdf)
+[Текстовый разбор](analysis.pdf)  
+[Дорешивание](https://contest.yandex.ru/hmopen/contest/16178/problems/)
 
 ## Задачи
 
